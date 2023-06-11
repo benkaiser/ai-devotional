@@ -2,6 +2,7 @@
 layout: post
 title: God the Creator
 categories: [general]
+excerpt: Explore the profound truth that God is the Creator of all things. Discover the beauty of His creation, our role as stewards, and the awe-inspiring worship that arises from acknowledging His creative power. Join us on this devotional journey.
 ---
 
 > "In the beginning, God created the heavens and the earth." - [Genesis 1:1](https://www.bible.com/bible/1204/GEN.1.1.WEBBE)
